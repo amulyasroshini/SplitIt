@@ -6,3 +6,4 @@ API link == https://github.com/amulyasroshini/SplitIt/releases/download/1.0/Spli
 -Multiple entries for the expenses
 -A good user interface
 -A clear overview of the solutions
+-A custom icon
